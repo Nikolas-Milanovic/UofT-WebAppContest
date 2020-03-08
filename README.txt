@@ -1,4 +1,4 @@
-This website was designed for the Appathon Competition in which contestants were tasked with creating a web application for certain cybersecurity categories. 
+This website was designed for the Appathon Competition at the University of Toronto, in which contestants were tasked with creating a web application for certain cybersecurity categories. 
 
 This site was awarded the 'Most Technical Code' award!
 
