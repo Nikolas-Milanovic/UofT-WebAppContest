@@ -1,0 +1,9 @@
+This website was designed for the Appathon Competition in which contestants were tasked with creating a web application for certain cybersecurity categories. 
+
+This site was awarded the 'Most Technical Code' award!
+
+Demo1 (Back end) - coded by Tevan B
+Demo2 (Back end) - coded by Nicolas M
+Front end - coded by Tyler W
+
+No templates were used upon the creation of the website.

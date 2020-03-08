@@ -1,2 +1,0 @@
-# WebAppContest
-TODO
