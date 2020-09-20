@@ -6,6 +6,6 @@ Check it out here > https://webappcontest.glitch.me
 
 Demo1 (Back end) - coded by Tevan B
 Demo2 (Back end) - coded by Nikolas M
-Front end - Tyler W
+Front end - Group
 
 No templates were used upon the creation of the website.
